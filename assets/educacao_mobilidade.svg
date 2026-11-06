@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Ilustração de livro, caminho e ônibus">
+  <rect width="900" height="220" rx="20" fill="#eef5f3"/>
+  <path d="M96 67 Q142 51 189 70 V168 Q143 150 96 166 Z" fill="#117c73"/>
+  <path d="M189 70 Q237 51 283 67 V166 Q236 150 189 168 Z" fill="#22a495"/>
+  <path d="M189 70 V168" stroke="#fff" stroke-width="5"/>
+  <path d="M320 121 H565" stroke="#8aa8a3" stroke-width="7" stroke-dasharray="18 13" stroke-linecap="round"/>
+  <path d="M552 109 L575 121 L552 133" fill="none" stroke="#8aa8a3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="605" y="65" width="204" height="108" rx="20" fill="#174b68"/>
+  <rect x="624" y="83" width="73" height="49" rx="6" fill="#c5e3e7"/>
+  <rect x="708" y="83" width="73" height="49" rx="6" fill="#c5e3e7"/>
+  <circle cx="655" cy="173" r="18" fill="#263a45"/>
+  <circle cx="760" cy="173" r="18" fill="#263a45"/>
+  <text x="90" y="201" font-family="Arial,sans-serif" font-size="18" fill="#285b58">Educação</text>
+  <text x="647" y="201" font-family="Arial,sans-serif" font-size="18" fill="#285b58">Mobilidade</text>
+</svg>
